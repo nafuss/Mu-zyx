@@ -1,0 +1,1 @@
+export const GET_CHANNEL_ID = 'GET_CHANNEL_ID'
